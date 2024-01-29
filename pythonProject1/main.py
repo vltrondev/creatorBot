@@ -251,5 +251,5 @@ async def on_guild_join(guild: discord.Guild):
 
 
 
-token = 'MTE5OTA0NDAxNjE5NzYxOTc5Mg.G-1k5R.OX7LyOPryRsw96GVi4U6Ddsdmq6aia7uMy24Zk'
+token = ''
 bot.run(token)
